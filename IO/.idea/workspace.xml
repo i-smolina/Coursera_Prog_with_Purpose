@@ -30,12 +30,6 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="106" />
-    <option name="y" value="23" />
-    <option name="width" value="938" />
-    <option name="height" value="765" />
-  </component>
   <component name="ProjectId" id="1iEFhYwALBHrYWnwzaM0tnAVT3W" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
@@ -51,6 +45,9 @@
     <property name="ToolWindowMessages.ShowToolbar" value="false" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RunManager" selected="Application.WorldMap">
@@ -83,9 +80,9 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.Checkerboard" />
       <item itemvalue="Application.ShannonEntropy" />
       <item itemvalue="Application.WorldMap" />
-      <item itemvalue="Application.Checkerboard" />
     </list>
     <recent_temporary>
       <list>
@@ -117,25 +114,33 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="692" y="344" width="525" height="424" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1601542945192" />
+    <state x="788" y="312" width="324" height="497" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1602058555722">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="788" y="312" width="324" height="497" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1602058555722" />
     <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1601551514042">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="743" y="311" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1601551514042" />
-    <state width="1920" height="292" key="GridCell.Tab.0.bottom" timestamp="1601551517426">
+    <state width="1920" height="292" key="GridCell.Tab.0.bottom" timestamp="1601711788064">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="292" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1601551517426" />
-    <state width="1920" height="292" key="GridCell.Tab.0.center" timestamp="1601551517426">
+    <state width="1920" height="292" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1601711788064" />
+    <state width="1920" height="292" key="GridCell.Tab.0.center" timestamp="1601711788064">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="292" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1601551517426" />
-    <state width="1920" height="292" key="GridCell.Tab.0.left" timestamp="1601551517425">
+    <state width="1920" height="292" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1601711788064" />
+    <state width="1920" height="292" key="GridCell.Tab.0.left" timestamp="1601711788063">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="292" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1601551517425" />
-    <state width="1920" height="292" key="GridCell.Tab.0.right" timestamp="1601551517426">
+    <state width="1920" height="292" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1601711788063" />
+    <state width="1920" height="292" key="GridCell.Tab.0.right" timestamp="1601711788064">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="292" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1601551517426" />
+    <state width="1920" height="292" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1601711788064" />
+    <state x="443" y="131" width="1024" height="852" key="SettingsEditor" timestamp="1602058617720">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="443" y="131" width="1024" height="852" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1602058617720" />
   </component>
 </project>
