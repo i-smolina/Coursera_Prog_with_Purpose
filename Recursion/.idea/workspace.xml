@@ -30,7 +30,7 @@
     <analyzeAfterCompile>true</analyzeAfterCompile>
     <toolWindowToFront>false</toolWindowToFront>
   </component>
-  <component name="ProjectId" id="1iaGEHH2mfUC7dAC1jn00jLAm0i" />
+  <component name="ProjectId" id="1iu9rUac7yb6GQARkFKrPo8ICy7" />
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="autoscrollFromSource" value="true" />
@@ -46,37 +46,34 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.Divisors">
-    <configuration name="ActivationFunction" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="ActivationFunction" />
+  <component name="RunManager" selected="Application.TrinomialDP">
+    <configuration name="RecursiveSquares" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RecursiveSquares" />
       <module name="Computer Science" />
-      <option name="PROGRAM_PARAMETERS" value="12" />
+      <option name="PROGRAM_PARAMETERS" value="4" />
       <method v="2" />
     </configuration>
-    <configuration name="AudioCollage" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="AudioCollage" />
+    <configuration name="RevesPuzzle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="RevesPuzzle" />
       <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="3" />
       <method v="2" />
     </configuration>
-    <configuration name="Divisors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Divisors" />
+    <configuration name="TrinomialBrute" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TrinomialBrute" />
       <module name="Computer Science" />
-      <option name="PROGRAM_PARAMETERS" value="0 1" />
+      <option name="PROGRAM_PARAMETERS" value="24 12" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TrinomialDP" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="TrinomialDP" />
+      <module name="Computer Science" />
+      <option name="PROGRAM_PARAMETERS" value="3 -1" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Divisors" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TodoView">
@@ -89,29 +86,21 @@
     </todo-panel>
   </component>
   <component name="WindowStateProjectService">
-    <state x="756" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602138249494">
+    <state width="1920" height="292" key="GridCell.Tab.0.bottom" timestamp="1603098481926">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="756" y="234" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1602138249494" />
-    <state x="667" y="354" width="576" height="406" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602402689931">
+    <state width="1920" height="292" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1603098481926" />
+    <state width="1920" height="292" key="GridCell.Tab.0.center" timestamp="1603098481925">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="667" y="354" width="576" height="406" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1602402689931" />
-    <state width="1920" height="238" key="GridCell.Tab.0.bottom" timestamp="1602746731439">
+    <state width="1920" height="292" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1603098481925" />
+    <state width="1920" height="292" key="GridCell.Tab.0.left" timestamp="1603098481925">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="238" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1602746731439" />
-    <state width="1920" height="238" key="GridCell.Tab.0.center" timestamp="1602746731439">
+    <state width="1920" height="292" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1603098481925" />
+    <state width="1920" height="292" key="GridCell.Tab.0.right" timestamp="1603098481926">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state width="1920" height="238" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1602746731439" />
-    <state width="1920" height="238" key="GridCell.Tab.0.left" timestamp="1602746731438">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state width="1920" height="238" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1602746731438" />
-    <state width="1920" height="238" key="GridCell.Tab.0.right" timestamp="1602746731439">
-      <screen x="0" y="27" width="1920" height="1053" />
-    </state>
-    <state width="1920" height="238" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1602746731439" />
+    <state width="1920" height="292" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1603098481926" />
   </component>
 </project>
